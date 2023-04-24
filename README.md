@@ -1,3 +1,4 @@
-# Demo. Hashtag is for header.
+# Demo.
 
-Some text
+Hashtag is for headers. It is a shortcut.
+Some text.
